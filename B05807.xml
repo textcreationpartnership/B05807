@@ -1,0 +1,229 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A funeral elegy on the Right Honourable the Lady Viscountesse Castleton.</title>
+            <author>Sh., Jo.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1667</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05807</idno>
+            <idno type="OCLC"> 9398577</idno>
+            <idno type="STC">Wing S2831</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.2[293]</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.3[19]</idno>
+            <idno type="STC">ESTC R26234</idno>
+            <idno type="EEBO-CITATION">99889369</idno>
+            <idno type="PROQUEST">ocm99889369</idno>
+            <idno type="VID">181615</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B05807)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 181615)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A1:1[296]; A4:1[19])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A funeral elegy on the Right Honourable the Lady Viscountesse Castleton.</title>
+                  <author>Sh., Jo.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1667?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: Jo. Sh.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Verse: "For birth and beauty, height of modesty ..."</note>
+                  <note>Item at A4:1[19] imperfect: Badly stained, affecting text.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Castleton, Grace Saunderson, --  Viscountess, d. 1667 --  Poetry --  Early works to 1800.</term>
+               <term>Elegiac poetry, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2008-03</date>
+            <label>Elspeth Healey</label>Sampled and proofread</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2009-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="elegy">
+            <pb facs="tcp:181615:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 4 -->
+            <head>A FUNERAL ELEGY ON THE Right Honourable the Lady VISCOUNTESSE CASTLETON.</head>
+            <l>FOR Birth and Beauty, height of modeſty,</l>
+            <l>For Wit and Parts ſweet ingenuity;</l>
+            <l>A Mother dear, and eke a Nature ſweet,</l>
+            <l>A loving Siſter, and a Wife moſt meet;</l>
+            <l>For a free heart, and eke a bounteous hand,</l>
+            <l>She ſcarce hath left Superiour in the Land.</l>
+            <l>Able ſhe was with Learned men to reaſon,</l>
+            <l>Nimbly confuting Hereſy and Treaſon.</l>
+            <l>In <hi>Common Prayers</hi> though delight ſhe took,</l>
+            <l>yet could ſhe pray full well without a Book;</l>
+            <l>Her ſecret Pray'rs too (without abuſe)</l>
+            <l>May be call'd <hi>Common</hi> from their frequent uſe.</l>
+            <l>She did not hate a Surplice, nor much love it,</l>
+            <l>But far prefer'd a pure life above it.</l>
+            <l>For <hi>Ceremonies</hi> ſhe would ſpeak one word,</l>
+            <l>But three for ſubſtance and fear of the Lord.</l>
+            <l>Her chiefeſt care ſtill was for Chriſtian walking,</l>
+            <l>She lov'd good practice, ſome love only talking.</l>
+            <l>She lik'd thoſe Clergy that now Preach and Pray,</l>
+            <l>If by good life, they practis'd what they ſay,</l>
+            <l>As if they were in earnest, alſo ſome</l>
+            <l>She favour'd too, who late were stricken dumb.</l>
+            <l>A true Child of the Church ſhe was, yet kind</l>
+            <l>To ſuch as were not fully of her mind;</l>
+            <l>Courteous to all, of ſuch ſweet diſpoſition,</l>
+            <l>Each ſeber man thought her of his Opinion.</l>
+            <l>Her dear Aunt <hi>Liſter</hi> (whom ſhe lov'd) and ſhe,</l>
+            <l>How well in Heav'n now do they agree?</l>
+            <l>Her Speech was quick, yet all her Language ſuch,</l>
+            <l>That none had cauſe to ſay it was too much;</l>
+            <l>Her habit modeſt, ſo that thereby no man</l>
+            <l>Need queſtion whether ſhe was man or woman.</l>
+            <l>Her neighbors found ſhe did the hungry feed,</l>
+            <l>And many wayes helpt ſuch as stood in need.</l>
+            <l>With her dear Lord ſhe up to <hi>London</hi> went,</l>
+            <l>Whence ſhe was call'd to Heav'ns Parliament;</l>
+            <l>While her Lord Sits i'th Lower Houſe; now ſhe</l>
+            <l>Sits in the Houſe of Kings where all agree.</l>
+            <l>(May never Law be made below, but thoſe</l>
+            <l>That with the Laws of Heav'n do juſtly cloſe;</l>
+            <l>That do as well agree with thoſe above,</l>
+            <l>As ſhe and her dear Lord did here in Love.)</l>
+            <l>Now for this Lord, and for her Children dear,</l>
+            <l>For their great loſs, I needs muſt ſhed a tear:</l>
+            <l>But none for her, who now hath gain'd a Crown;</l>
+            <l>Her God who ſent her, call'd but for his own.</l>
+            <l>This Life's no Heritage, but a ſhort Leaſe,</l>
+            <l>And well'tis ſo; ſooner our troubles ceaſe.</l>
+            <l>Yet for poor <hi>Yorkſhire</hi>-ſake, lament I muſt</l>
+            <l>That <hi>Lincolnſhire</hi> hath th' honour of her duſt,</l>
+            <l>And yet no matter; for I know i'th end,</l>
+            <l>Her Saviour will a <hi>Habeas Corpus</hi> ſend,</l>
+            <l>And joyn her body to her Soul above,</l>
+            <l>TO ſit with Angels, Sing, and Praiſe, and Love;</l>
+            <l>And in the mean time, her <hi>Remaines</hi> here may</l>
+            <l>Sleep quiet till the Reſurrection day.</l>
+            <l>As for her <hi>quondam</hi> Lord, in this ſhort life,</l>
+            <l>He ne're can find (I think) a better Wife;</l>
+            <l>And for her Children; this I wiſh, they may</l>
+            <l>Be like to her; more then this none need ſay;</l>
+            <l>Only I fear, more will commend her dead,</l>
+            <l>Then will lead ſuch a life as ſhe here led.</l>
+            <l>In <hi>Yorkſhire</hi> ſhe was born, in <hi>London</hi> dead,</l>
+            <l>In <hi>Lincolnſhire</hi> her duſt lyes buried:</l>
+            <l>Thus <hi>North</hi> and <hi>South,</hi> and middle Countries are</l>
+            <l>Proud in this Lady, each to have a ſhare.</l>
+            <l>
+               <hi>York</hi> was, and <hi>London</hi> is, <hi>Lincoln</hi> ſhall be</l>
+            <l>For her duſt ſake, call'd chief of all the three.</l>
+         </div>
+         <div type="epitaph">
+            <head>Her EPITAPH.</head>
+            <l>Here lies Wit, and Noble duſt,</l>
+            <l>Here lies honour cannot ruſt.</l>
+            <l>Here lies—(would you know whats next)</l>
+            <l>Worth that cannot be expreſt.</l>
+            <l>This is all I can acquaint,</l>
+            <l>She was a Lady, is a Saint</l>
+            <l>But it ſtill more you would deſcry,</l>
+            <l>Let Angels tell it, and not I.</l>
+            <l>Labour to get where now ſhe is,</l>
+            <l>And there behold her Soul in bliſs;</l>
+            <l>A pleaſant ſight there to be ſeen,</l>
+            <l>A Lady turn'd into a Queen.</l>
+            <l>A <hi>Bellaſſis,</hi> and <hi>Saunderſon,</hi>
+            </l>
+            <l>A <hi>Caſtleton,</hi> all three in one.</l>
+            <l>Here lies, no wonder if you ſee</l>
+            <l>In each mans face a weeping eye;</l>
+            <l>For in her life none could afford</l>
+            <l>'Gainſt this bleſt Lady one ill word;</l>
+            <l>Her Lord and ſhe they never ſtrove,</l>
+            <l>Save who could moſt each other love;</l>
+            <l>And now when faith and hope are ceaſt.</l>
+            <l>Her love is ſtill much more increaſt.</l>
+            <closer>
+               <signed>Jo. Sh.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
